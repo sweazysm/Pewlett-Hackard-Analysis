@@ -15,8 +15,6 @@ The two specific tasks conducted are as follows:
 
 <img width="747" alt="Screen Shot 2021-08-22 at 8 57 52 PM" src="https://user-images.githubusercontent.com/86274124/130377350-d85504a8-5205-4ca8-942f-2d5e16b26573.png">
 
-<img width="563" alt="Screen Shot 2021-08-22 at 8 57 28 PM" src="https://user-images.githubusercontent.com/86274124/130378063-38a17cd4-e9ff-472c-91f3-d0175474b2a9.png">
-
 The first tasked entailed determining the number of employees retiring by title. Over 90,000 employees are retiring! Specifically, we have 29414 Senior Engineers retiring; 28254 Senior Staff members retiring; 14222 Engineers retiring; 12243 Staff members retiring; 4502 Techniques Leaders retiring; 1761 Assistant Engineers retiring; and 2 Managers are retiring. The majorty of people retiring are either Senior Staff or Senior Engineers, which may mean that existing Engineers and Staff could look forward to a promotion. All in all, there is no joke about a "Silver Tsunami." 
 
 ---
@@ -41,8 +39,10 @@ The two questions that were to be solved by this analysis were, "What is the tot
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-As calculated above, over 90000 employees are eligible for retirement at PH. Specifically, the total number of roles needed to be filled will be 90398. This is ~38% of PH's work force! With those eligible for the mentorship program, we have a possible 1549 mentors. Since those retiring were hired around 1955, and the mentors are from around 1965, this will give the mentors a 10 year window. This means that each mentor will have roughly 6 people a year to train, which on paper sounds perfectly feasible. It remains to be seen how the mentorship program will be played out. If PH can properly plan and run it's mentorship program, I have no reason to believe why PH could not make this work. 
+As calculated above, over 90000 employees are eligible for retirement at PH. Specifically, the total number of roles needed to be filled will be 90398. This is ~38% of PH's work force! With those eligible for the mentorship program, we have a possible 1549 mentors. Since those retiring were hired around 1955, and the mentors are from around 1965, this will give the mentors a 10 year window. This means that each mentor will have roughly 6 people a year to train, which on paper sounds perfectly feasible. To be safe with fluctatinig numbers, on the higher end it can be assumed that a mentor could be left with 10 people a year to mentor. It remains to be seen how the mentorship program will be played out, but if someone can be trained in a month's time then it is entirely possible that PH can keep this mentor program running and a consistent employee count as well. If PH can properly plan and run it's mentorship program, I have no reason to believe why PH could not make this work. 
 
 <img width="238" alt="Screen Shot 2021-08-22 at 8 57 07 PM" src="https://user-images.githubusercontent.com/86274124/130379806-25188edf-7cec-452f-8d1a-3d797b43fa6f.png">
 
 <img width="211" alt="Screen Shot 2021-08-22 at 9 20 53 PM" src="https://user-images.githubusercontent.com/86274124/130377762-99978527-6e61-47b5-aa26-f2152a4d6eaf.png">
+
+<img width="563" alt="Screen Shot 2021-08-22 at 8 57 28 PM" src="https://user-images.githubusercontent.com/86274124/130378063-38a17cd4-e9ff-472c-91f3-d0175474b2a9.png">
