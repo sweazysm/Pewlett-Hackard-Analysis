@@ -41,8 +41,18 @@ The two questions that were to be solved by this analysis were, "What is the tot
 
 As calculated above, over 90000 employees are eligible for retirement at PH. Specifically, the total number of roles needed to be filled will be 90398. This is ~38% of PH's work force! With those eligible for the mentorship program, we have a possible 1549 mentors. Since those retiring were hired around 1955, and the mentors are from around 1965, this will give the mentors a 10 year window. This means that each mentor will have roughly 6 people a year to train, which on paper sounds perfectly feasible. To be safe with fluctatinig numbers, on the higher end it can be assumed that a mentor could be left with 10 people a year to mentor. It remains to be seen how the mentorship program will be played out, but if someone can be trained in a month's time then it is entirely possible that PH can keep this mentor program running and a consistent employee count as well. If PH can properly plan and run it's mentorship program, I have no reason to believe why PH could not make this work. 
 
-<img width="238" alt="Screen Shot 2021-08-22 at 8 57 07 PM" src="https://user-images.githubusercontent.com/86274124/130379806-25188edf-7cec-452f-8d1a-3d797b43fa6f.png">
+However, an interesting thing can also be garnered from this data: PH's population of workers is old. Even when the dates on our analysis are changed around, the birth dates of the employees routinely place employees in the Baby Boomer generation. As the "Silver Tsunami" hits and new blood comes in, PH would be wise to take note and hire more young blood with newer ideas, more energy, and more years of workability ahead of them.
 
 <img width="211" alt="Screen Shot 2021-08-22 at 9 20 53 PM" src="https://user-images.githubusercontent.com/86274124/130377762-99978527-6e61-47b5-aa26-f2152a4d6eaf.png">
 
-<img width="563" alt="Screen Shot 2021-08-22 at 8 57 28 PM" src="https://user-images.githubusercontent.com/86274124/130378063-38a17cd4-e9ff-472c-91f3-d0175474b2a9.png">
+Above screenshot shows the breakdown of employees retiring by title.
+
+<img width="848" alt="Screen Shot 2021-08-22 at 10 10 51 PM" src="https://user-images.githubusercontent.com/86274124/130380798-3b854013-1b88-41c2-98d1-c71757644faa.png">
+
+<img width="509" alt="Screen Shot 2021-08-22 at 10 16 21 PM" src="https://user-images.githubusercontent.com/86274124/130380980-60b6486c-fecf-4e4f-a583-f39f56a9ceac.png">
+
+The above table and screenshot shows the current amount of total employees, which is a whopping 240124! PH sure is a huge job provider! Note: The first number is the header row, making 240125 actually 240124.
+
+<img width="506" alt="Screen Shot 2021-08-22 at 10 28 37 PM" src="https://user-images.githubusercontent.com/86274124/130381750-d8a7807b-ecf4-402f-8ac8-fd714afe11c7.png">
+
+Even when dates are changed around, one thing stays consistent: The employees are old. In this table alone, all the birthdates are in 1965! 
